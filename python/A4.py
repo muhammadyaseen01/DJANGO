@@ -1,0 +1,7 @@
+#AGR MUJHE KISI DOSRE MODULE SE KOI OBJ ACCESS KRNA H  (LET SAY (X)) OR SAME NAME SE MUJHE EK OBJ BANANA BHI H ISSE MODULE ME TO USKE LIYE HUM ACCESS KIYE GAYE OBJ KA NAME "AS" KEYWORD SE USSE DOSRE NAME SE USE KR SAKTE IS FILE ME
+
+from A1 import x as y #x ko import krega A1 se or y name se access kr sakte hum is module me
+
+x = 14
+print(x)
+print(y)
