@@ -1,0 +1,3 @@
+module = a python file is called a module(.py file) which contain instance obj, function obj, class obj 
+
+package = it contain module
